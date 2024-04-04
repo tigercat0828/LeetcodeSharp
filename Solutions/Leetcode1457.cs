@@ -1,4 +1,6 @@
-﻿namespace Leetcode.CSharp.Solutions;
+﻿using LeetcodeSharp.Common;
+
+namespace Leetcode.CSharp.Solutions;
 public class Leetcode1457 {
     int palindromicPaths = 0;
 

@@ -1,6 +1,6 @@
 ﻿// Sysmmetric Tree
 
-namespace LeetcodeSharp.Common; 
+namespace LeetcodeSharp.Common;
 public class TreeNode {
     public TreeNode left;
     public TreeNode right;

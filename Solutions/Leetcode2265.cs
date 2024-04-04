@@ -1,4 +1,6 @@
-﻿namespace Leetcode.CSharp.Solutions;
+﻿using LeetcodeSharp.Common;
+
+namespace LeetcodeSharp.Solutions;
 
 public class Leetcode2265 {
     public struct NodeInfo {

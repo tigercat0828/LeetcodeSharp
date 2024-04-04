@@ -1,4 +1,4 @@
-﻿namespace LeetcodeSharp.Solutions; 
+﻿namespace LeetcodeSharp.Solutions;
 public class Leetcode2140 {
     long[] DP;
     int[][] questions;

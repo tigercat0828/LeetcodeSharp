@@ -1,4 +1,6 @@
-﻿namespace Leetcode.CSharp.Solutions;
+﻿using LeetcodeSharp.Common;
+
+namespace LeetcodeSharp.Solutions;
 public class Leetcode2385 {
     Dictionary<int, HashSet<int>> Graph = [];
     public int AmountOfTime(TreeNode root, int start) {

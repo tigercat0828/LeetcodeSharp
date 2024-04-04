@@ -1,8 +1,10 @@
-﻿namespace Leetcode.CSharp.Solutions;
+﻿using LeetcodeSharp.Common;
+
+namespace LeetcodeSharp.Solutions;
 public class Leetcode501 {
-    Dictionary<int, int> dict = new();
+    Dictionary<int, int> dict = [];
     public int[] FindMode(TreeNode root) {
-        List<int> modes = new();
+        List<int> modes = [];
         PreOrder(root);
         int maxNum = 0;
         foreach (var item in dict) {

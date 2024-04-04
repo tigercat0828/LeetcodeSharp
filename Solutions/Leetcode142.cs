@@ -1,13 +1,15 @@
-﻿namespace Leetcode.CSharp.Solutions;
+﻿using LeetcodeSharp.Common;
+
+namespace LeetcodeSharp.Solutions;
 
 /*
 fast = 2 * slow     
 a+b+c+b = 2 (a+b) 
 a = c
 ----------------X-------|
-        a        |       |b
-                 |       |
-                c|-------X
+        a       |       |b
+                |       |
+               c|-------X
 */
 public class Leetcode142 {
 

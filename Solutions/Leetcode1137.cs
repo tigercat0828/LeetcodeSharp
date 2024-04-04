@@ -1,4 +1,4 @@
-﻿namespace LeetcodeSharp.Solutions; 
+﻿namespace LeetcodeSharp.Solutions;
 public class Leetcode1137 {
 
     int[] memo;

@@ -1,4 +1,6 @@
-﻿namespace Leetcode.CSharp.Solutions;
+﻿using LeetcodeSharp.Common;
+
+namespace LeetcodeSharp.Solutions;
 //606. Construct String from Binary Tree
 public class Leetcode606 {
 

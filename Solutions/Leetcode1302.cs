@@ -1,4 +1,6 @@
-﻿namespace Leetcode.CSharp.Solutions;
+﻿using LeetcodeSharp.Common;
+
+namespace LeetcodeSharp.Solutions;
 
 // O(n) node of the root, BFS
 public class Leetcode1302 {

@@ -1,4 +1,4 @@
-﻿namespace LeetcodeSharp.Solutions; 
+﻿namespace LeetcodeSharp.Solutions;
 public class Leetcode374 {
     public int GuessNumber(int n) {
         int left = 1;

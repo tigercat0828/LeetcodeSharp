@@ -1,4 +1,6 @@
-﻿namespace Leetcode.CSharp.Solutions;
+﻿using LeetcodeSharp.Common;
+
+namespace LeetcodeSharp.Solutions;
 public class Leetcode1290 {
     // bit manupulation O(n)
     public int GetDecimalValue(ListNode head) {

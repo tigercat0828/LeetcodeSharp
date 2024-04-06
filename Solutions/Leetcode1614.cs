@@ -1,5 +1,5 @@
 ﻿
-namespace LeetcodeSharp.Solutions; 
+namespace LeetcodeSharp.Solutions;
 public class Leetcode1614 {
     // Maximum Nesting Depth of the Parentheses
     public int MaxDepth(string s) {

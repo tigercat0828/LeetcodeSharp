@@ -42,7 +42,6 @@
             Console.WriteLine("amt = " + amount);
             nums[left] += amount;
             nums[right] -= amount;
-            nums.Print();
             return true;
         }
     }

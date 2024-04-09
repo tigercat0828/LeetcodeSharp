@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class P350_Intersection_of_Two_Arrays_II {
         // O(nlogn)
         public int[] Intersect(int[] nums1, int[] nums2) {

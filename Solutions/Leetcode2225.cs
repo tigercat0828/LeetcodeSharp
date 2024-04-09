@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class Leetcode2225 {
         class Player {
             public int ID;
@@ -7,7 +7,7 @@
             public Player(int iD, int win, int loser) {
                 ID = iD;
                 this.win = win;
-                this.lose = loser;
+                lose = loser;
             }
         }
         public IList<IList<int>> FindWinners(int[][] matches) {

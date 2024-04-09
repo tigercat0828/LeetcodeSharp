@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class Leetcode739 {
         struct Day(int index, int temp) {
             public int index = index;

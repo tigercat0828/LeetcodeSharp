@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions;
+﻿namespace LeetcodeSharp.Solutions;
 public class Leetcode2610 {
     public IList<IList<int>> FindMatrix(int[] nums) {
         int[] freq = new int[nums.Length + 1];

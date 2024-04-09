@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions;
+﻿namespace LeetcodeSharp.Solutions;
 public class Leetcode232 {
     public class MyQueue {
         private Stack<int> stackQueue;

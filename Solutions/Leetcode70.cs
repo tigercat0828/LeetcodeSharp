@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions;
+﻿namespace LeetcodeSharp.Solutions;
 public class Leetcode70 {
     // F[n]=F[n-1]+F[n-2]
     // 因為一次可以爬1、2 step,

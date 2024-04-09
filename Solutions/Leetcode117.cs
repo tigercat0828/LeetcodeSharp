@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class Leetcode117 {
         public class Node {
             public int val;

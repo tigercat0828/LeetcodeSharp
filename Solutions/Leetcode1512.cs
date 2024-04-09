@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class Leetcode1512 {
         // O(n^2)
         public int NumIdenticalPairs2(int[] nums) {

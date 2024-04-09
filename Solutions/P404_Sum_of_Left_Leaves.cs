@@ -1,6 +1,6 @@
 ﻿using LeetcodeSharp.Common;
 
-namespace Leetcode.CSharp.Solutions {
+namespace LeetcodeSharp.Solutions {
     public class P404_Sum_of_Left_Leaves {
         class Node {
 

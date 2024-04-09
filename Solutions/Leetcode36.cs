@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions;
+﻿namespace LeetcodeSharp.Solutions;
 public class Leetcode36 {
     int[] count = new int[10];
     int[][] board;

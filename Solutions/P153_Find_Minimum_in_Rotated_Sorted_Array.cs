@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class P153_Find_Minimum_in_Rotated_Sorted_Array {
         public int FindMin(int[] nums) {
             int left = 0;

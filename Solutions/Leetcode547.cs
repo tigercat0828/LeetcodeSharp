@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions;
+﻿namespace LeetcodeSharp.Solutions;
 public class Leetcode547 {
     public int FindCircleNum(int[][] isConnected) {
         int groups = 0;

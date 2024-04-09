@@ -1,5 +1,5 @@
 ﻿//using ElementPos = (int r, int c); // .net 8
-namespace Leetcode.CSharp.Solutions;
+namespace LeetcodeSharp.Solutions;
 public class Leetcode1582 {
     struct ElementPos {
         public int r;

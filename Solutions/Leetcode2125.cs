@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class Leetcode2125 {
         public int NumberOfBeams(string[] bank) {
             int[] lasers = new int[bank.Length];

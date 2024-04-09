@@ -1,5 +1,5 @@
 ﻿using static System.Math;
-namespace Leetcode.CSharp.Solutions {
+namespace LeetcodeSharp.Solutions {
     public class P633_Sum_of_Square_Numbers {
         // O(sqrt(c)logc) by sqrt()
         public bool JudgeSquareSum(int c) {

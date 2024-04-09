@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions;
+﻿namespace LeetcodeSharp.Solutions;
 public class Leetcode118 {
     public IList<IList<int>> Generate(int numRows) {
         List<IList<int>> result = [[1]];

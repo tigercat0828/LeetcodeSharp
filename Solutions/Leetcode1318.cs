@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions;
+﻿namespace LeetcodeSharp.Solutions;
 public class Leetcode1318 { // Minimum Flips to Make a OR b Equal to c
     // straight forward
     public int MinFlips(int a, int b, int c) {

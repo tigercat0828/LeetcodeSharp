@@ -1,6 +1,6 @@
 ﻿using LeetcodeSharp.Common;
 
-namespace Leetcode.CSharp.Solutions {
+namespace LeetcodeSharp.Solutions {
     public class P701_Insert_into_a_Binary_Search_Tree {
         public TreeNode InsertIntoBST(TreeNode root, int val) {
             if (root == null) {

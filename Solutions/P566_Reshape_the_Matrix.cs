@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class P566_Reshape_the_Matrix {
         public int[][] MatrixReshape(int[][] mat, int r, int c) {
             int row = mat.Length;

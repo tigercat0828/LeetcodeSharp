@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     /*
     dp[i][j] =  { 0, i>j
                 { 1, i=j

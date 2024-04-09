@@ -1,6 +1,6 @@
 ﻿using LeetcodeSharp.Common;
 
-namespace Leetcode.CSharp.Solutions {
+namespace LeetcodeSharp.Solutions {
     public class P700_Search_in_a_Binary_Search_Tree {
 
         // iterative

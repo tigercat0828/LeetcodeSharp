@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     // MyLinkedList
     public class P707_Design_Linked_List {
         class Node {

@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions;
+﻿namespace LeetcodeSharp.Solutions;
 public class Leetcode2706 {
     public int BuyChoco(int[] prices, int money) {
         // find two smallest A,B

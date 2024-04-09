@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     // 1535 Find the Winner of an Array Game
     public class Leetcode1535 {
 

@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace Leetcode.CSharp.Solutions;
+namespace LeetcodeSharp.Solutions;
 public class Leetcode49 {
     public IList<IList<string>> GroupAnagrams(string[] strs) {
         Dictionary<string, List<string>> dict = [];

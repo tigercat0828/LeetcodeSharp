@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class P26_Remove_Duplicates_from_Sorted_Array {
 
         public int RemoveDuplicates(int[] nums) {

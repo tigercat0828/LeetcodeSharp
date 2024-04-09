@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class P441_Arranging_Coins {
         // Math O(1)
         // n(n+1)/2 <= x

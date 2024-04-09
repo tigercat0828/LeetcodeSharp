@@ -1,6 +1,6 @@
 ﻿using LeetcodeSharp.Common;
 
-namespace Leetcode.CSharp.Solutions;
+namespace LeetcodeSharp.Solutions;
 public class P206_Reverse_Linked_List {
 
     // iteration version

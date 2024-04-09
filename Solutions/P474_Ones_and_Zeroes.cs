@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class P474_Ones_and_Zeroes {
         public int FindMaxForm(string[] strs, int m, int n) {
             int[][] dp = new int[m + 1][];

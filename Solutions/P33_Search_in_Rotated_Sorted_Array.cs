@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class P33_Search_in_Rotated_Sorted_Array {
         public int Search(int[] nums, int target) {
             int index = FindMinIndex(nums);

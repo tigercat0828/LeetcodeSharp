@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class P32_Longest_Valid_Parentheses {
         // (char, index)
         struct Node {

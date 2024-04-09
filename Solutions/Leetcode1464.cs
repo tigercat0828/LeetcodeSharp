@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class Leetcode1464 {
         public int MaxProduct(int[] nums) {
             if (nums.Length < 2) return -1;

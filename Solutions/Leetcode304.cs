@@ -1,6 +1,6 @@
 ﻿//Range Sum Query 2D - Immutable
 
-namespace Leetcode.CSharp.Solutions {
+namespace LeetcodeSharp.Solutions {
     public class Leetcode304 {
         class NumMatrix {
             int[][] prefixSum;

@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions;
+﻿namespace LeetcodeSharp.Solutions;
 public class Leetcode1291 {
     public IList<int> SequentialDigits(int low, int high) {
         const string numbers = "123456789";

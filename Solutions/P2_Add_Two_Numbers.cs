@@ -1,6 +1,6 @@
 ﻿using LeetcodeSharp.Common;
 
-namespace Leetcode.CSharp.Solutions {
+namespace LeetcodeSharp.Solutions {
     public class P2_Add_Two_Numbers {
 
         public ListNode AddTwoNumbers(ListNode l1, ListNode l2) {

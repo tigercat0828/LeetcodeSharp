@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class P344_Reverse_String {
         // iterative
         public void ReverseString(char[] s) {

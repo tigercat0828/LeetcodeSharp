@@ -1,6 +1,6 @@
 ﻿using LeetcodeSharp.Common;
 
-namespace Leetcode.CSharp.Solutions;
+namespace LeetcodeSharp.Solutions;
 public class Leetcode1457 {
     int palindromicPaths = 0;
 
@@ -15,9 +15,9 @@ public class Leetcode1457 {
             if (node == null) continue;
 
 
-            path ^= (1 << node.val);        // record the val frequency
+            path ^= 1 << node.val;        // record the val frequency
             if (node.left == null && node.right == null) {
-                if ((path & (path - 1)) == 0)    // check if there is at most one element
+                if ((path & path - 1) == 0)    // check if there is at most one element
                     palinedrome++;
             }
             else {

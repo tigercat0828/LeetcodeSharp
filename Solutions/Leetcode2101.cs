@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions;
+﻿namespace LeetcodeSharp.Solutions;
 
 // Leetcode 2101 Detonate the Maximum Bombs
 public class Leetcode2101 {

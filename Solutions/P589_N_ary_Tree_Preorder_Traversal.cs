@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class P589_N_ary_Tree_Preorder_Traversal {
         public class Node {
             public int val;

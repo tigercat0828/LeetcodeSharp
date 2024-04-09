@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class Leetcode2405 {
         // Optimal Partition of String
         public int PartitionString(string s) {

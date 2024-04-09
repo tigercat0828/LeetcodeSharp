@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions;
+﻿namespace LeetcodeSharp.Solutions;
 public class Leetcode1503 {
     // 1503. Last Moment Before All Ants Fall Out of a Plank
     class Ant {

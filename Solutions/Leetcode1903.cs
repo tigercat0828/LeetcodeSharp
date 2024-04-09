@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class Leetcode1903 {
         // Brute Force O(n^2)
         public string LargestOddNumber(string num) {

@@ -1,6 +1,6 @@
 ﻿using LeetcodeSharp.Common;
 
-namespace Leetcode.CSharp.Solutions {
+namespace LeetcodeSharp.Solutions {
     public class P145_Binary_Tree_Postorder_Traversal {
         // iterative
         public IList<int> PostorderTraversal(TreeNode root) {

@@ -1,5 +1,4 @@
-﻿
-namespace Leetcode.CSharp.Solutions;
+﻿namespace LeetcodeSharp.Solutions;
 internal class Leetcode2966 {
 
     // O(nlogn)
@@ -7,7 +6,7 @@ internal class Leetcode2966 {
         Array.Sort(nums);
 
         for (int i = 0; i < nums.Length; i += 3) {
-            if ((nums[i + 2] - nums[i]) > k) {
+            if (nums[i + 2] - nums[i] > k) {
                 return [];
             }
         }

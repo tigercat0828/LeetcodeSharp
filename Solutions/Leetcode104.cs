@@ -1,6 +1,6 @@
 ﻿using LeetcodeSharp.Common;
 
-namespace Leetcode.CSharp.Solutions;
+namespace LeetcodeSharp.Solutions;
 public class Leetcode104 {
 
     int maxHeight = 0;

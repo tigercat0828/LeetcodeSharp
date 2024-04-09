@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions;
+﻿namespace LeetcodeSharp.Solutions;
 public class Leetcode150 {
     public int EvalRPN(string[] tokens) {
         Stack<int> stack = [];

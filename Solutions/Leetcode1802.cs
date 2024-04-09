@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions;
+﻿namespace LeetcodeSharp.Solutions;
 public class Leetcode1802 {
     public int MaxValue(int n, int index, int maxSum) {
         throw new NotImplementedException();

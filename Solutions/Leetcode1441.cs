@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions;
+﻿namespace LeetcodeSharp.Solutions;
 // 1441. Build an Array With Stack Operations
 public class Leetcode1441 {
     public IList<string> BuildArray(int[] target, int n) {

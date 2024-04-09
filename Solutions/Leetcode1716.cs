@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions;
+﻿namespace LeetcodeSharp.Solutions;
 
 // 1716. Calculate Money in Leetcode Bank
 public class Leetcode1716 {

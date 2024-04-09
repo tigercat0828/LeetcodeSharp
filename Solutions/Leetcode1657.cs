@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class Leetcode1657 {
         public bool CloseStrings(string word1, string word2) {
             if (word1.Length != word2.Length) return false;

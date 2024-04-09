@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions;
+﻿namespace LeetcodeSharp.Solutions;
 public class Leetcode576 {
     private int M, N, MaxMove;
     private const int MOD = 1_000_000_000 + 7;

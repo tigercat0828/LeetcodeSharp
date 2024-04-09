@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class Leetcode1662 {
         public bool ArrayStringsAreEqual(string[] word1, string[] word2) {
             string str1 = string.Join("", word1);

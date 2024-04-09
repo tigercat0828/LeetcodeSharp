@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class Leetcode389 {
         public char FindTheDifference(string s, string t) {
             int[] dictS = new int[26];

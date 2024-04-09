@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace Leetcode.CSharp.Solutions;
+namespace LeetcodeSharp.Solutions;
 public class Leetcode451 {
 
 

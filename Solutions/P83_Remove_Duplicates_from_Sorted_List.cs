@@ -1,6 +1,6 @@
 ﻿using LeetcodeSharp.Common;
 
-namespace Leetcode.CSharp.Solutions {
+namespace LeetcodeSharp.Solutions {
     public class P83_Remove_Duplicates_from_Sorted_List {
         public ListNode DeleteDuplicates(ListNode head) {
             if (head == null) return null;

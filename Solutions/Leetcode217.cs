@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class Leetcode217 {
         public bool ContainsDuplicate(int[] nums) {
             Dictionary<int, int> dict = new();

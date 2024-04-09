@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions;
+﻿namespace LeetcodeSharp.Solutions;
 public class Leetcode322 {
     // dp approach bottom-up
     public int CoinChange(int[] coins, int amount) {

@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions;
+﻿namespace LeetcodeSharp.Solutions;
 public class Leetcode1347 {
     public int MinSteps(string s, string t) {
         int[] letterS = new int[26];

@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class P27_Remove_Element {
         public int RemoveElement(int[] nums, int val) {
             int length = nums.Length;

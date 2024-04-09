@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class P63_Unique_Paths_II {
         const int OBSTACLE = -1;
         // O (row x col)

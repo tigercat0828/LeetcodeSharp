@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class Leetcode1232 { // Check If It Is a Straight Line
 
         public bool CheckStraightLine(int[][] coordinates) {

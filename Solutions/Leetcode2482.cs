@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions;
+﻿namespace LeetcodeSharp.Solutions;
 public class Leetcode2482 {
     public int[][] OnesMinusZeros(int[][] grid) {
         int rows = grid.Length;

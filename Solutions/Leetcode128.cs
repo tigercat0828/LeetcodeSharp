@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     // Longest Consecutive Sequence
     public class Leetcode128 {
         HashSet<int> set = new();

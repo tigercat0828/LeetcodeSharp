@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     // 2439. Minimize Maximum of Array
     public class Leetcode2439 {
         int[] nums;

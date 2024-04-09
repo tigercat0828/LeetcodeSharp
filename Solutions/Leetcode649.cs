@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class Leetcode649 {
         public string PredictPartyVictory(string senate) {
             Queue<int> radiants = new();

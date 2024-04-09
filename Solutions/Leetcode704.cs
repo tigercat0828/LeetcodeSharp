@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class Leetcode704 {
         public int Search(int[] nums, int target) {
             return search(nums, target, 0, nums.Length - 1);

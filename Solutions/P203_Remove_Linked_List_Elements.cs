@@ -1,6 +1,6 @@
 ﻿using LeetcodeSharp.Common;
 
-namespace Leetcode.CSharp.Solutions {
+namespace LeetcodeSharp.Solutions {
     public class P203_Remove_Linked_List_Elements {
         public ListNode RemoveElements(ListNode head, int val) {
             ListNode tmpHead = new ListNode(val + 1, head);     // different from param:val

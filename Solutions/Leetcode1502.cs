@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class Leetcode1502 {
         public bool CanMakeArithmeticProgression2(int[] arr) {
             if (arr.Length == 2) return true;

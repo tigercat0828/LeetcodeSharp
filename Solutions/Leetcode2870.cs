@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions;
+﻿namespace LeetcodeSharp.Solutions;
 
 public class Leetcode2870 {
     public int MinOperations(int[] nums) {

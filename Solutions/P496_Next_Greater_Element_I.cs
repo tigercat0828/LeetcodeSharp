@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class P496_Next_Greater_Element_I {
         public int[] NextGreaterElement(int[] nums1, int[] nums2) {
             // O(n) monotonic stack : value in stack should be increasing or decreasing

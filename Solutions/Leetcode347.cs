@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions;
+﻿namespace LeetcodeSharp.Solutions;
 public class Leetcode347 {
     // value : [-10000, +10000]
     public int[] TopKFrequent(int[] nums, int k) {

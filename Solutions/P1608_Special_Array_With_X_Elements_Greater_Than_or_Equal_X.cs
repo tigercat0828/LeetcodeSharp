@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class P1608_Special_Array_With_X_Elements_Greater_Than_or_Equal_X {
         // O(n) Counting
         public int SpecialArray(int[] nums) {

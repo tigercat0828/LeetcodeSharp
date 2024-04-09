@@ -1,6 +1,6 @@
 ﻿// House Robber
 
-namespace Leetcode.CSharp.Solutions;
+namespace LeetcodeSharp.Solutions;
 public class Leetcode198 {
     // DP bottom-up 
     public int Rob(int[] nums) {

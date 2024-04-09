@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace Leetcode.CSharp.Solutions {
+namespace LeetcodeSharp.Solutions {
     public class Leetcode1758 {
         public int MinOperations(string s) {
             // either start with '0' or '1'

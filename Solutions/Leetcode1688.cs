@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class Leetcode1688 {
         // 1688. Count of Matches in Tournament
         public int NumberOfMatches(int n) => n - 1;

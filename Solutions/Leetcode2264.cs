@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
 
     // Largest 3-Same-Digit Number in String
     public class Leetcode2264 {

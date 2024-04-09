@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class P733_Flood_Fill {
 
         int[] dx = new int[] { 1, 0, -1, 0 };

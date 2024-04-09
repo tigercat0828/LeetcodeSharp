@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
 
     public class P430_Flatten_a_Multilevel_Doubly_Linked_List {
         public class Node {

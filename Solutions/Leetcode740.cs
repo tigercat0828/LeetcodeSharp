@@ -1,5 +1,5 @@
 ﻿// Delete and Earn 
-namespace Leetcode.CSharp.Solutions {
+namespace LeetcodeSharp.Solutions {
     public class Leetcode740 {
         public int DeleteAndEarn(int[] nums) {
             // think like house robber

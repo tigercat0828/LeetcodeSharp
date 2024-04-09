@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class P976_Largest_Perimeter_Triangle {
 
         // O(nlogn)

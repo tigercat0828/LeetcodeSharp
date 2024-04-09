@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class P1768_Merge_Strings_Alternately {
         public string MergeAlternately(string word1, string word2) {
             int i = 0;

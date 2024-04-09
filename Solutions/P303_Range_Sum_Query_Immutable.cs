@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class P303_Range_Sum_Query_Immutable {
         public class NumArray {
             int[] num;

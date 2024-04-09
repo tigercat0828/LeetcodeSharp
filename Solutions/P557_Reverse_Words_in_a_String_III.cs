@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class P557_Reverse_Words_in_a_String_III {
         public string ReverseWords(string s) {
             string[] words = s.Split(' ');

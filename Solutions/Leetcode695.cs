@@ -1,4 +1,4 @@
-﻿namespace Leetcode.CSharp.Solutions {
+﻿namespace LeetcodeSharp.Solutions {
     public class Leetcode695 {
         private readonly int[] dx = [0, 1, 0, -1];
         private readonly int[] dy = [1, 0, -1, 0];
